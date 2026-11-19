@@ -13,7 +13,7 @@ def home():
         <body>
             <h1>Welcome to CI/CD DevOps Pipeline!</h1>
             <p>Flask Application is Running Successfully.</p>
-            <p>Automated Testing with Pytest and GitHub Actions.</p>
+            <p>Automated CI/CD Pipeline Verified Successfully!</p>
         </body>
     </html>
     """
